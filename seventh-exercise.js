@@ -3,6 +3,11 @@
 // Then, using that variable, create a message 
 // that reveals your favorite number. Print that message.
 
-let favorite_number = 11
+let my_name = 'Hamza';
+let date = '1/10/22';
 
-console.log('my favorite_number number is ', favorite_number);
+// I store a favorite number in a variable and console.log() to the node.js
+
+// let favorite_number = 11
+
+// console.log('my favorite_number number is', favorite_number);

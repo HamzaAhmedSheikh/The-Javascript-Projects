@@ -1,5 +1,9 @@
 // 5: Stripping Names: 
 
+let my_name = 'Hamza';
+let date = '1/10/22';
+
+
 //  Print the name once, so the whitespace around the name is displayed.
 
 

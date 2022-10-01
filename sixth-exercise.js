@@ -4,7 +4,12 @@
 //  Be sure to enclose your operations in print statements
 //  to see the results. eg:  console.log(5 + 3)
 
-console.log('addition ==> ', 5 + 3) // addition
-console.log('subtraction ', 11 - 3) // subtraction
-console.log('multiplication', 4 * 2) // multiplication
-console.log('division', 16 / 2) // division
+let my_name = 'Hamza';
+let date = '1/10/22';
+
+// I have define four console.log() to do some add minus multiply and divide on node.js
+
+// console.log('addition ==> ', 5 + 3) // addition
+// console.log('subtraction ', 11 - 3) // subtraction
+// console.log('multiplication', 4 * 2) // multiplication
+// console.log('division', 16 / 2) // division

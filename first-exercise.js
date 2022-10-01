@@ -1,5 +1,8 @@
 // 2: Personal Message: 
 
+let my_name = 'Hamza';
+let date = '1/10/22';
+
 // Store a person’s name in a variable
 
 let person_name = "Eric"

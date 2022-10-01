@@ -3,7 +3,12 @@
 //  Then compose your message and store it in a new variable called message. 
 // Print your message.
 
+let my_name = 'Hamza';
+let date = '1/10/22';
+
 let famous_person = 'Albert Einstein'
 let famous_person_quote = "once said a person who never made a mistake never tried anything new."
 
 console.log(` the quote is:- ${famous_person} ${famous_person_quote}`)
+
+// node fourth-exercise.js

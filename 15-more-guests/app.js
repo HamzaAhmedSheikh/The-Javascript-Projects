@@ -8,7 +8,7 @@
 
 // • Add one new guest to the middle of your array. 
 
-// • Use append() to add one new guest to the end of your list. 
+// • Use push() to add one new guest to the end of your list. 
 
 // • Print a new set of invitation messages, one for each person in your list.
 

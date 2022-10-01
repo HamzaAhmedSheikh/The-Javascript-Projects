@@ -27,7 +27,7 @@ console.log('I am sorry you are not invited to the dinner ==>', reinvitations.po
 console.log('I am sorry you are not invited to the dinner ==>', reinvitations.pop(2))
 console.log('I am sorry you are not invited to the dinner ==>', reinvitations.pop(3))
 
-console.log("you guys are still invited", reinvitations[0], reinvitations[1])
+console.log("you guys are still invited", reinvitations[0], reinvitations[1]) //loop
 
 reinvitations.pop(0)
 reinvitations.pop(1)

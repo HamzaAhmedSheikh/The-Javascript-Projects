@@ -11,4 +11,4 @@ for (let name = 0; name < names.length; name++) {
     let friend_name = names[name];
     console.log('friend_name ', friend_name);    
 }
-// node ninth-exercise.js
+// cd 10-names && node app.js

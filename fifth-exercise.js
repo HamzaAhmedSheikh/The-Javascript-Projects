@@ -13,4 +13,4 @@ let trim_the_white_space = person_name.trim()
 console.log('white space ==> ', person_name);
 console.log('white space ==> ', user_name);
 console.log('\n');
-console.log(trim_the_white_space);
+console.log(trim_the_white_space); 

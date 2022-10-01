@@ -7,7 +7,7 @@ let date = '1/10/22';
 let names = ['Hamza', 'Ahmed', 'Badar']
 
 // Print each person’s name by accessing each element in the list, one at a time
-for (let name = 0; name < friends_name.length; name++) {
+for (let name = 0; name < names.length; name++) {
     let friend_name = names[name];
     console.log('friend_name ', friend_name);    
 }

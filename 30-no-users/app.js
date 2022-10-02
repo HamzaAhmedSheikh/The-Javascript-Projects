@@ -22,4 +22,4 @@ if (usernames[0] === 'Hamza') {
     console.log("We need to find some users!");
  }
 
- 
+//  cd 30-no-users && node app.js

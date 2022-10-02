@@ -15,9 +15,9 @@
 
 
 // Make a list of five or more usernames called current_users.
-let current_users = ['eric', 'willie', 'Hamza', 'admin', 'erin']
+let current_users = ['eric', 'willie', 'Hamza', 'admin', 'erin', 'ahsan']
 // Make another list of five usernames called new_users
-let new_users = ['sarah', 'Willie', 'hamza', 'PHIL', 'Iona']
+let new_users = ['sarah', 'Willie', 'hamza', 'PHIL', 'Iona', 'Ahsan']
 
 
 for (let new_user in new_users) {

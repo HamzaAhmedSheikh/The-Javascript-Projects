@@ -11,4 +11,4 @@ let famous_person_quote = "once said a person who never made a mistake never tri
 
 console.log(` the quote is:- ${famous_person} ${famous_person_quote}`)
 
-// node fourth-exercise.js
+// cd 05-famous-quote-2 && node app.js

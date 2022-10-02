@@ -27,4 +27,4 @@ for (let _invite in reinvitations) {
    console.log("Welcome to my dinner party ", reinvitations[_invite])
 }
 
-// cd changing-guest-list && node app.js
+// cd 14-changing-guest-list && node app.js

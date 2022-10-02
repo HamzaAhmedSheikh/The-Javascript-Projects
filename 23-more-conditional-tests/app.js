@@ -23,6 +23,21 @@ console.log("===> lower-case-test", test.toLowerCase() === "equal")
 console.log("===> upper-case-test", test.toUpperCase() === "equal")
 console.log('\n');
 
+let req_top = "mashroom";
+
+if (req_top !== "bbq") {
+  console.log('ok its done');
+} else {
+  console.log('sorry');
+}
+
+if (req_top === "bbq") {
+  console.log("ok its done")
+ } 
+ else {
+  console.log("sorry")
+}
+
 let value = 10
 console.log(value > 10)
 console.log(value < 10)
@@ -32,6 +47,7 @@ console.log('\n');
 console.log(value === 10)
 console.log(value !== 10)
 console.log('\n');
+
 
 
 let x = 6;

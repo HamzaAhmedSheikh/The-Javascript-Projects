@@ -21,3 +21,5 @@ console.log('white space-3 ==> ', _user_name);
 // print the name after striping the white spaces
 let trim_the_white_space = person_name.trim()
 console.log(trim_the_white_space); 
+
+// cd 06-stripping-names && node app.js

@@ -11,3 +11,5 @@ let date = '1/10/22';
 // let favorite_number = 11
 
 // console.log('my favorite_number number is', favorite_number);
+
+// cd 08-favorite-number && node app.js

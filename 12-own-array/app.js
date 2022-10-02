@@ -5,8 +5,8 @@
 // such as “I would like to own a Honda motorcycle.”
 
 let favorite_transportation = ['Car', "Bike"]
-// for loop
+
 console.log('I would like to own the Tesla Electric', favorite_transportation[0]);
 console.log('I would like to own the Harley Davidson', favorite_transportation[1]);
 
-// cd own-array && node app.js
+// cd 12-own-array && node app.js

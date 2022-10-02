@@ -12,4 +12,4 @@ for (let invite = 0; invite < invitations.length; invite++) {
 
     console.log("Welcome to my dinner party ", invitation)    
 }
-// cd guest-list && node app.js
+// cd 13-guest-list && node app.js

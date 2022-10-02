@@ -6,10 +6,18 @@
 
 let arr = ['css', 'js', 'ts'];
 
-console.log(arr[3]);
-console.log("Intentional Error calling for ")
+// console.log('array', arr);
 
-// let car = 'subaru';
+/********************* Intentional Error **************************************/
+
+// console.log(arr[3]);
+// console.log("Intentional Error for access 3 index from the array.")
+
+/************************************************************/
+
+
+
+
 
 
 // cd 21-intentional-error && node app.js

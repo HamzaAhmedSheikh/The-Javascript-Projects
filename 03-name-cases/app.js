@@ -24,3 +24,5 @@ function toTitleCase(str) {
     return str.join(' ');
 }
 console.log(toTitleCase("HAMZA"));
+
+// cd 03-name-cases && node app.js

@@ -12,3 +12,4 @@ let quote = 'a person who never made a mistake never tried anything new.'
 
 console.log(`Albert Einstein once said ${quote}`)
 
+// cd 04-famous-quote && node app.js

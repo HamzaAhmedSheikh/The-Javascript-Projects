@@ -13,3 +13,5 @@ let date = '1/10/22';
 console.log('subtraction ', 18 - 10) // subtraction
 console.log('multiplication', 4 * 2) // multiplication
  console.log('division', 32 / 4) // division
+
+// cd 07-number-eight && node app.js

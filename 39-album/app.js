@@ -8,15 +8,19 @@
 //  add that value to the album’s Object.
 //  Make at least one new function call that includes the number of tracks on an album.
 
-function make_album(artist, title, tracks) {
+function make_album(artist, title) {   
    let album_dict = {
       'artist': artist,
       'title': title
    }
 
-   if (tracks == 8) {
-      // console.log('dict of album', album_dict['tracks'] = tracks);
-      album_dict['tracks'] = tracks
+   if (arguments[2]) {
+      album_dict = {
+         'artist': artist,
+         'title': title,
+         'tracks': arguments[2]
+      }
+      return album_dict    
    }
 
    return album_dict
@@ -31,7 +35,7 @@ console.log('album-2', album)
 album = make_album('willie nelson', 'red-headed stranger')
 console.log('album-3', album)
 
-let track_album = make_album('iron maiden', 'piece of mind', tracks = 8)
+let track_album = make_album('iron maiden', 'piece of mind', 8)
 console.log('album with tracks', track_album);
 
 //  cd 39-album && node app.js

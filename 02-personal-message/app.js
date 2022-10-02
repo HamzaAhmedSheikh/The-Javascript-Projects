@@ -13,3 +13,5 @@ let message = `Hello ${person_name}, would you like to learn some Python today?`
 //  such as, “Hello Eric, would you like to learn some Python today?”
 
 console.log('message ==> ', message);
+
+// cd 02-personal-message

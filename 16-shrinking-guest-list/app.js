@@ -34,4 +34,4 @@ reinvitations.pop(1)
 
 console.log('empty array ==> ', reinvitations);
 
-// cd shrinking-guest-list && node app.js
+// cd 16-shrinking-guest-list && node app.js

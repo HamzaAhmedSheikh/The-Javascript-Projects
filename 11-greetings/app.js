@@ -11,4 +11,4 @@ for (let name = 0; name < names.length; name++) {
     let friend_name = names[name];
     console.log('hello ', friend_name);    
 }
-// cd greetings && node app.js
+// cd 11-greetings && node app.js

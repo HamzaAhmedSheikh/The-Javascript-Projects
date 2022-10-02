@@ -14,3 +14,4 @@ function make_shirt(size = "large", message = "I love JavaScript.") {
  make_shirt(size = 'medium')
  make_shirt('small', 'Experience is the name everyone gives to their mistakes.')
 
+// cd 36-large-shirts && node app.js

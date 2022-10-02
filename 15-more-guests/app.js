@@ -36,4 +36,4 @@ for (let invite = 0; invite < reinvitations.length; invite++) {
  
 console.log('People, just found a bigger table and more people will be joining us this evening');
 
-// cd more-guests && node app.js 
+// cd 15-more-guests && node app.js 

@@ -6,10 +6,10 @@
 
 let arr = ['css', 'js', 'ts'];
 
-
+console.log(arr[3]);
 console.log("Intentional Error calling for ")
 
-let car = 'subaru';
+// let car = 'subaru';
 
 
 // cd 21-intentional-error && node app.js

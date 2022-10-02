@@ -9,7 +9,7 @@ let date = '1/10/22';
 
 // I have define four console.log() to do some add minus multiply and divide on node.js
 
-// console.log('addition ==> ', 5 + 3) // addition
-// console.log('subtraction ', 11 - 3) // subtraction
-// console.log('multiplication', 4 * 2) // multiplication
-// console.log('division', 16 / 2) // division
+ console.log('addition ==> ', 4 + 4) // addition
+console.log('subtraction ', 18 - 10) // subtraction
+console.log('multiplication', 4 * 2) // multiplication
+ console.log('division', 32 / 4) // division

@@ -12,4 +12,4 @@ function show_magicians(magicians) {
   let magicians = ['Harry Houdini', 'Penn & Teller', ' David Copperfield']
   show_magicians(magicians)
 
-// cd 40-magicians && node app.js
+// cd 40-magicians && node app.js  
